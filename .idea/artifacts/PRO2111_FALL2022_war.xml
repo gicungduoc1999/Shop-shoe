@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PRO2111_FALL2022:war">
+    <output-path>$PROJECT_DIR$/PRO2111_FALL2022/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PRO2111_FALL2022</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PRO2111_FALL2022-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PRO2111_FALL2022:war exploded" />
+    </root>
+  </artifact>
+</component>
